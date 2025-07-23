@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "110933759491",
+    "project_id": "t5-lottery",
+    "storage_bucket": "t5-lottery.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110933759491:android:909ca517b219bc43d7e036",
+        "android_client_info": {
+          "package_name": "Com.t5.lottery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp091gD1X9YbrN0THhXzs2ygQW-3EbO1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
